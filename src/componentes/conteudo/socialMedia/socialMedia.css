@@ -1,0 +1,21 @@
+.social-media {
+   position: relative;
+   display: inline-block;
+   font-size: 2em;
+   margin-top: 40px;
+   margin-left: 50px;
+}
+.fa {
+   color: #00704a;
+   padding: 10px;
+}
+.fa:hover {
+   transform: scale(1.2);
+   transition: all .3s;
+}
+
+@media (max-width:991px) {
+   .social-media {
+      font-size: 1.5em;
+   }
+}

@@ -7,7 +7,7 @@
 .App {
   position: relative;
   min-height: 100vh;
-  background: rgb(47, 0, 255);
+  background: rgb(216, 199, 199);
   display: flex;
   justify-content: center;
   align-items: center;
